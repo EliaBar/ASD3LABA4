@@ -1,0 +1,2 @@
+Iteration 0: Best Cost = 763
+Iteration 20: Best Cost = 673
